@@ -42,7 +42,7 @@ Random Forest Classifier
 XGBoost Classifier
 Decision Tree Classifier
 
-F1 Score was used to select the best performing models. This is because of the imbalance dataset. 
+F1 Score was used to select the best performing models. This is because of the imbalanced dataset. 
 
 
 #### Outline of project
